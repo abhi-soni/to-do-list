@@ -5,7 +5,7 @@
 .form-control label {
   font-weight: bold;
   display: block;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.625rem;
 }
 
 .form-control input {
@@ -15,6 +15,7 @@
   font: inherit;
   line-height: 1.5rem;
   padding: 0 0.25rem;
+  height: 2.125rem;
 }
 
 .form-control input:focus {
